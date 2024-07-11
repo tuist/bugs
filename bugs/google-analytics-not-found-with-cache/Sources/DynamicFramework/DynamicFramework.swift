@@ -1,4 +1,4 @@
-import GoogleAnalytics
+@_implementationOnly import GoogleAnalytics
 
 public class DynamicFramework {
     private let level: GAILogLevel
